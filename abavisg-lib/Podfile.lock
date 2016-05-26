@@ -1,0 +1,16 @@
+PODS:
+  - abavisg-lib (0.1.0)
+
+DEPENDENCIES:
+  - abavisg-lib (from `../`)
+
+EXTERNAL SOURCES:
+  abavisg-lib:
+    :path: ../
+
+SPEC CHECKSUMS:
+  abavisg-lib: fef0098766ac9bf667cabd790ee8f06d738511c3
+
+PODFILE CHECKSUM: 80f9e678b7a7b7b03ff3a6d1954c5b8cf2f89fab
+
+COCOAPODS: 1.0.0

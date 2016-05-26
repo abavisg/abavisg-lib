@@ -1,0 +1,6 @@
+use_frameworks!
+target 'abavisg-lib_Tests' do
+  pod 'abavisg-lib', :path => '../'
+  
+  
+end

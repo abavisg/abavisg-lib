@@ -6,12 +6,11 @@
 //  Copyright © 2016 Georgios Ampavis. All rights reserved.
 //
 
-
 import UIKit
 
 class Alerts {
 
-	class func showStandardAlert(atController controller: UIViewController,
+	public class func showStandardAlert(atController controller: UIViewController,
 		title: String,
 		message: String,
 		buttonTitle: String = "OK") {
@@ -28,7 +27,7 @@ class Alerts {
 			}
 	}
 
-	class func showStandardAlert(atController controller: UIViewController,
+	public class func showStandardAlert(atController controller: UIViewController,
 		title: String,
 		message: String,
 		leftButtonTitle: String,

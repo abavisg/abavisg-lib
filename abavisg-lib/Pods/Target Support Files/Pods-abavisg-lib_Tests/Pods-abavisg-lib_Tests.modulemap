@@ -1,0 +1,6 @@
+framework module Pods_abavisg_lib_Tests {
+  umbrella header "Pods-abavisg-lib_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

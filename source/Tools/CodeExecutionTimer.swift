@@ -8,17 +8,17 @@
 
 import Foundation
 
-class CodeExecutionTimer {
+public class CodeExecutionTimer {
 
 	static var startTime: CFAbsoluteTime?
 	static var endTime: CFAbsoluteTime?
 
-	class func start() {
+	public class func start() {
 		startTime = CFAbsoluteTimeGetCurrent()
         print("=========== TASK STARTED ==============")
 	}
 
-	class func stop() -> CFAbsoluteTime {
+	public class func stop() -> CFAbsoluteTime {
 		self.endTime = CFAbsoluteTimeGetCurrent()
 
 		if let endTime = self.endTime {
