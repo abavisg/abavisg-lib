@@ -30,7 +30,7 @@ A selection of various classes that I use all the time
  
 ## Credits
  
-iOS Engineer - Giorgos Ampavis (abavisg@gmail.com)
+[Giorgos Ampavis](https://github.com/abavisg "Github profile") - Coder & Technologist - <abavisg@gmail.com>
 
 ## License
  
