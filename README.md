@@ -11,11 +11,14 @@ A selection of various classes that I use all the time
 
 ## What's inside
 ### Swift
+
 #### Extensions
 * UIView+Xib
 * UIViewController
+
 #### Tools
 * CodeExecutionTimer
+
 #### Utilities
 * Alerts
 
