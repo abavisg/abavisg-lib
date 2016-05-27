@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'abavisg-lib'
-  s.version          = '0.2.0'
+  s.version          = '0.3.0'
   s.summary          = 'A selection of various classes that I use all the time'
 
 # This description is used to generate tags and improve search results.
@@ -34,6 +34,8 @@ What's inside
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'source/**/*'
+  
+  s.deprecated_in_favor_of = 'SkinnySwift'
   
   # s.resource_bundles = {
   #   'abavisg-lib' => ['abavisg-lib/Assets/*.png']
